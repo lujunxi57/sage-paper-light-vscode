@@ -1,8 +1,8 @@
 {
-  "name": "osaka-jade-refined-light",
-  "displayName": "Osaka Jade Refined Light",
-  "description": "A high-fidelity VS Code port of OpenChamber's Osaka Jade Refined Light palette.",
-  "version": "0.1.2",
+  "name": "sage-paper-light",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "version": "0.2.0",
   "publisher": "local-junxi",
   "license": "MIT",
   "engines": {
@@ -15,25 +15,25 @@
     "theme",
     "light",
     "green",
-    "jade",
-    "osaka",
-    "openchamber"
+    "sage",
+    "paper"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Osaka Jade Refined Light",
+        "id": "Sage Paper Light",
+        "label": "%themeLabel%",
         "uiTheme": "vs",
-        "path": "./themes/osaka-jade-refined-light-color-theme.json"
+        "path": "./themes/sage-paper-light-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lujunxi57/osaka-jade-refined-light-vscode.git"
+    "url": "https://github.com/lujunxi57/sage-paper-light-vscode.git"
   },
-  "homepage": "https://github.com/lujunxi57/osaka-jade-refined-light-vscode#readme",
+  "homepage": "https://github.com/lujunxi57/sage-paper-light-vscode#readme",
   "bugs": {
-    "url": "https://github.com/lujunxi57/osaka-jade-refined-light-vscode/issues"
+    "url": "https://github.com/lujunxi57/sage-paper-light-vscode/issues"
   }
 }

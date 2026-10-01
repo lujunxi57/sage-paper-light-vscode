@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Osaka Jade Refined Light",
+  "name": "Sage Paper Light",
   "type": "light",
   "include": "./base/light_plus.json",
   "semanticHighlighting": true,
