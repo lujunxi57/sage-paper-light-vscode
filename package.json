@@ -1,0 +1,39 @@
+{
+  "name": "osaka-jade-refined-light",
+  "displayName": "Osaka Jade Refined Light",
+  "description": "A high-fidelity VS Code port of OpenChamber's Osaka Jade Refined Light palette.",
+  "version": "0.1.2",
+  "publisher": "local-junxi",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "green",
+    "jade",
+    "osaka",
+    "openchamber"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Osaka Jade Refined Light",
+        "uiTheme": "vs",
+        "path": "./themes/osaka-jade-refined-light-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lujunxi57/osaka-jade-refined-light-vscode.git"
+  },
+  "homepage": "https://github.com/lujunxi57/osaka-jade-refined-light-vscode#readme",
+  "bugs": {
+    "url": "https://github.com/lujunxi57/osaka-jade-refined-light-vscode/issues"
+  }
+}
