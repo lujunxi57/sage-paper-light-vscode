@@ -1,3 +1,7 @@
+<p>
+  <img src="https://raw.githubusercontent.com/lujunxi57/sage-paper-light-vscode/main/media/icon.png" width="96" height="96" alt="Sage Paper Light icon">
+</p>
+
 # Sage Paper Light
 
 > Warm paper. Soft sage. A touch of forest green.
