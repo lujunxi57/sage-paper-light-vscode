@@ -63,7 +63,7 @@ These are the theme's role mappings. Individual grammar scopes and language-prov
 
 ## Get started
 
-1. If needed, open **Extensions → … → Install from VSIX…** and choose the local Sage Paper Light package.
+1. Install [**Sage Paper Light** from the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Junxi.sage-paper-light). For a local VSIX package, use **Extensions → … → Install from VSIX…**.
 2. Open the Command Palette with **⌘⇧P** on macOS or **Ctrl+Shift+P** on Windows/Linux.
 3. Run **Preferences: Color Theme** and select **Sage Paper Light**.
 
