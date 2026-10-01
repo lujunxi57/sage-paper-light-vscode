@@ -2,7 +2,7 @@
   "name": "sage-paper-light",
   "displayName": "%displayName%",
   "description": "%description%",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "publisher": "Junxi",
   "license": "MIT",
   "engines": {
@@ -35,5 +35,6 @@
   "homepage": "https://github.com/lujunxi57/sage-paper-light-vscode#readme",
   "bugs": {
     "url": "https://github.com/lujunxi57/sage-paper-light-vscode/issues"
-  }
+  },
+  "icon": "icon.png"
 }
