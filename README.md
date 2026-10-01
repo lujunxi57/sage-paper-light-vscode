@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/lujunxi57/sage-paper-light-vscode/main/media/icon.png" width="96" height="96" alt="Sage Paper Light icon">
+  <img src="https://raw.githubusercontent.com/lujunxi57/sage-paper-light-vscode/main/media/icons/sage-paper-light.png" width="96" height="96" alt="Sage Paper Light icon">
 </p>
 
 # Sage Paper Light

@@ -3,4 +3,4 @@
 *.vsix
 
 media/**
-!media/icon.png
+!media/icons/sage-paper-light.png
