@@ -77,6 +77,6 @@ Palette, workbench colors, and syntax refinements by **Junxi**.
 
 Base TextMate coverage derives from Microsoft's **Light+** and **Light (Visual Studio)** themes.
 
-Header artwork generated with **Codex’s built-in image generator**. The editor and terminal previews above are actual VS Code captures.
+The editor and terminal previews above are actual VS Code captures.
 
 Released under the **MIT License**. See [LICENSE](https://github.com/lujunxi57/sage-paper-light-vscode/blob/main/LICENSE) and [NOTICE](https://github.com/lujunxi57/sage-paper-light-vscode/blob/main/NOTICE) for licensing and attribution.
