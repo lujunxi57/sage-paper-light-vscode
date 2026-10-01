@@ -2,6 +2,8 @@
 
 > Warm paper. Soft sage. A touch of jade.
 
+![Osaka Jade — a quiet garden in warm paper and jade green](https://raw.githubusercontent.com/lujunxi57/osaka-jade-refined-light-vscode/main/media/illustrations/osaka-jade-garden.jpg)
+
 A quiet light theme for Visual Studio Code, bringing OpenChamber's **Osaka Jade Refined Light** palette to the editor. Cream and sage surfaces give the workbench a gentle rhythm; deep jade accents keep focus, navigation, and selections easy to follow.
 
 **Light theme** · **VS Code 1.85+** · **TextMate + semantic highlighting** · **MIT**
@@ -74,5 +76,7 @@ The extension provides one light theme. Your font, icon theme, and editor layout
 The palette comes from [OpenChamber's Osaka Jade Refined Light](https://github.com/openchamber/openchamber/blob/main/packages/ui/src/lib/theme/themes/osaka-jade-refined-light.json), with upstream Osaka Jade attribution to **tbcode-org** and **Justikun**.
 
 Base TextMate coverage derives from Microsoft's **Light+** and **Light (Visual Studio)** themes.
+
+Header artwork generated with **Nano Banana 2 (Gemini 3.1 Flash Image)**. The editor and terminal previews above are actual VS Code captures.
 
 Released under the **MIT License**. See [LICENSE](https://github.com/lujunxi57/osaka-jade-refined-light-vscode/blob/main/LICENSE) and [NOTICE](https://github.com/lujunxi57/osaka-jade-refined-light-vscode/blob/main/NOTICE) for licensing and attribution.
