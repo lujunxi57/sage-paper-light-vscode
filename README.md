@@ -2,7 +2,7 @@
 
 > Warm paper. Soft sage. A touch of forest green.
 
-![Sage Paper — a quiet garden in warm paper and sage green](https://raw.githubusercontent.com/lujunxi57/sage-paper-light-vscode/main/media/illustrations/sage-paper-garden.jpg)
+![Sage Paper — a quiet desk with notebooks, pens, and warm coffee](https://raw.githubusercontent.com/lujunxi57/sage-paper-light-vscode/main/media/illustrations/sage-paper-desk.png)
 
 **Sage Paper Light** is a quiet light theme for Visual Studio Code, with a palette hand-tuned by **Junxi**. Warm paper and soft sage surfaces give the workbench a gentle rhythm; forest-green accents keep focus, navigation, and selections easy to follow. Muted plum, rose, gold, and teal bring a considered balance to syntax highlighting.
 
@@ -77,6 +77,6 @@ Palette, workbench colors, and syntax refinements by **Junxi**.
 
 Base TextMate coverage derives from Microsoft's **Light+** and **Light (Visual Studio)** themes.
 
-Header artwork generated with **Nano Banana 2 (Gemini 3.1 Flash Image)**. The editor and terminal previews above are actual VS Code captures.
+Header artwork generated with **Codex’s built-in image generator**. The editor and terminal previews above are actual VS Code captures.
 
 Released under the **MIT License**. See [LICENSE](https://github.com/lujunxi57/sage-paper-light-vscode/blob/main/LICENSE) and [NOTICE](https://github.com/lujunxi57/sage-paper-light-vscode/blob/main/NOTICE) for licensing and attribution.
