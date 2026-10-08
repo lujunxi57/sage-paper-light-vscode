@@ -103,6 +103,7 @@
     "titleBar.border": "#60796933",
 
     "statusBar.background": "#206B5C",
+    "statusBar.inactiveBackground": "#206B5C",
     "statusBar.foreground": "#FFFDF4",
     "statusBar.border": "#195849",
     "statusBar.noFolderBackground": "#52665A",
